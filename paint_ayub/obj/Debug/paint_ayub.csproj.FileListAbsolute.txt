@@ -1,0 +1,8 @@
+D:\project C# uni\پروژه های ترم\paint_ayub\paint_ayub\bin\Debug\paint_ayub.exe.config
+D:\project C# uni\پروژه های ترم\paint_ayub\paint_ayub\bin\Debug\paint_ayub.exe
+D:\project C# uni\پروژه های ترم\paint_ayub\paint_ayub\bin\Debug\paint_ayub.pdb
+D:\project C# uni\پروژه های ترم\paint_ayub\paint_ayub\obj\Debug\paint_ayub.Form1.resources
+D:\project C# uni\پروژه های ترم\paint_ayub\paint_ayub\obj\Debug\paint_ayub.Properties.Resources.resources
+D:\project C# uni\پروژه های ترم\paint_ayub\paint_ayub\obj\Debug\paint_ayub.csproj.GenerateResource.Cache
+D:\project C# uni\پروژه های ترم\paint_ayub\paint_ayub\obj\Debug\paint_ayub.exe
+D:\project C# uni\پروژه های ترم\paint_ayub\paint_ayub\obj\Debug\paint_ayub.pdb
